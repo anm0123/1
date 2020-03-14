@@ -1,0 +1,7 @@
+video{
+  width: 100vw;
+}
+input{
+  border:1px solid #ccc;
+  margin: 20rpx;
+}
